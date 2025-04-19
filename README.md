@@ -151,12 +151,11 @@ Add your screenshots here:
 ## 👨‍💻 Author
 
 **Rahul Rao M**  
-MCA @ Jain University  
-Security + Cloud Enthusiast | Builder of Secure Azure Apps  
+rahulroxx2002@gmail.com
+Cybersecurity Enthusiast  
 
 ---
 
 ## 📎 License
 
 This project is open-sourced.
-```
