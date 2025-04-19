@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ DDoS Prevention System using Multi-Layered Architecture (Azure-Based)
 
 A cloud-native project that implements a robust, three-layered defense system to detect and prevent Distributed Denial-of-Service (DDoS) attacks using Microsoft Azure. Combines WAF, ML anomaly detection, and honeypots with CAPTCHA.
